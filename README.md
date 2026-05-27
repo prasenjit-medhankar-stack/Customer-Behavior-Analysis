@@ -1,7 +1,7 @@
 <h1 align="center">Customer Shopping Behavior Analytics Project</h1>
 
 <p align="center">
-End-to-End Data Analytics Project using Python, PostgreSQL, SQL, Power BI, and Data Visualization
+End-to-End Data Analytics Project using Python, PostgreSQL, Power BI, and Data Visualization
 </p>
 
 <p align="center">
@@ -65,11 +65,6 @@ Customer behavior patterns
 <tr>
 <td><b>PostgreSQL</b></td>
 <td>Database management and SQL querying</td>
-</tr>
-
-<tr>
-<td><b>SQL</b></td>
-<td>Business analysis and querying</td>
 </tr>
 
 <tr>
@@ -173,7 +168,7 @@ Dynamic Charts & Visualizations
 Business Performance Summary  
 
 
-# Report & Presentation
+# Report & Presentatio
 
 ## Project Report
 A detailed analytical report was created summarizing:
@@ -182,13 +177,6 @@ SQL analysis
 Business insights  
 Dashboard interpretation  
 Final conclusions  
-
-## PowerPoint Presentation
-A professional PPT presentation was created to showcase:
-Project workflow  
-Key visualizations  
-Dashboard screenshots  
-Final insights and recommendations  
 
 
 # Key Insights
@@ -231,9 +219,5 @@ Data Visualization
 Dashboard Development  
 Business Intelligence Reporting  
 
-This project is suitable for:
-Data Analyst Portfolio  
-Internship Applications  
-Resume Projects  
-SQL & Power BI Showcase Projects  
+
 
