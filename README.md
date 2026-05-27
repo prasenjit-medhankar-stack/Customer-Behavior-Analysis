@@ -8,7 +8,6 @@ End-to-End Data Analytics Project using Python, PostgreSQL, SQL, Power BI, and D
 This project analyzes customer shopping behavior data to uncover insights related to purchasing patterns, customer demographics, product preferences, and sales trends.
 </p>
 
----
 
 # Project Overview
 
@@ -24,7 +23,6 @@ Creating analytical reports and presentation slides
 
 The objective of this project is to transform raw customer shopping data into meaningful business insights for better decision-making.
 
----
 
 # Dataset Information
 
@@ -40,7 +38,6 @@ Shopping frequency
 Payment methods  
 Customer behavior patterns  
 
----
 
 # Tools & Technologies
 
@@ -86,7 +83,6 @@ Customer behavior patterns
 </tr>
 </table>
 
----
 
 # Project Workflow
 
@@ -100,7 +96,6 @@ Inspected dataset structure
 Checked data types and missing values  
 Performed initial exploration  
 
----
 
 ## Exploratory Data Analysis (EDA)
 
@@ -126,7 +121,6 @@ Count Plots
 Heatmaps  
 Line Charts  
 
----
 
 ## Data Cleaning & Preprocessing
 
@@ -138,7 +132,6 @@ Standardizing column formats
 Converting data types  
 Preparing clean dataset for SQL analysis  
 
----
 
 ## SQL Analysis using PostgreSQL
 
@@ -164,7 +157,6 @@ Generated customer behavior insights
 <li>Filtering & Sorting</li>
 </ul>
 
----
 
 # Power BI Dashboard
 
@@ -180,7 +172,6 @@ Interactive Filters & Slicers
 Dynamic Charts & Visualizations  
 Business Performance Summary  
 
----
 
 # Report & Presentation
 
@@ -199,7 +190,6 @@ Key visualizations
 Dashboard screenshots  
 Final insights and recommendations  
 
----
 
 # Key Insights
 
@@ -209,35 +199,6 @@ Found trends in customer spending patterns
 Discovered demographic-based shopping preferences  
 Generated actionable business insights using SQL and Power BI  
 
----
-
-# Project Structure
-
-```bash
-Customer-Shopping-Behavior-Analytics/
-│
-├── Dataset/
-│   └── customer_shopping_behavior_dataset.csv
-│
-├── Python/
-│   └── customer_behaviour.ipynb
-│
-├── SQL/
-│   └── customer_behaviour.sql
-│
-├── PowerBI/
-│   └── customer_behaviour_dashboard.pbix
-│
-├── Reports/
-│   └── project_report.pdf
-│
-├── Presentation/
-│   └── project_presentation.pptx
-│
-└── README.md
-```
-
----
 
 # How to Run the Project
 
@@ -258,7 +219,6 @@ Refresh dataset connection if required
 ## Step 4: Review Reports & Presentation
 Open project report and PPT files for detailed findings  
 
----
 
 # Project Outcome
 
@@ -277,11 +237,3 @@ Internship Applications
 Resume Projects  
 SQL & Power BI Showcase Projects  
 
----
-
-# Author
-
-<p align="center">
-<b>Your Name</b><br>
-Data Analyst | Python | SQL | Power BI
-</p>
