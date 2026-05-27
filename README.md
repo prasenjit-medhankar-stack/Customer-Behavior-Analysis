@@ -73,7 +73,7 @@ Customer behavior patterns
 </tr>
 
 <tr>
-<td><b>MS PowerPoint</b></td>
+<td><b> Report file </b></td>
 <td>Project presentation and reporting</td>
 </tr>
 </table>
@@ -168,7 +168,7 @@ Dynamic Charts & Visualizations
 Business Performance Summary  
 
 
-# Report & Presentatio
+# Report 
 
 ## Project Report
 A detailed analytical report was created summarizing:
